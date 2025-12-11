@@ -1,0 +1,31 @@
+#root{
+  align-items: center;
+}
+.upper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  color: blue;
+}
+p{
+  margin-top: -5px;
+  color: grey;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left{
+  width: 50vw;
+  margin: 50px;
+  color: black;
+}
+.right{
+  width: 50vw;
+  margin: 50px;
+  color: black;
+}

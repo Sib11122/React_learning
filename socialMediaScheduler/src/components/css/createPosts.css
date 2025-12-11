@@ -1,0 +1,39 @@
+.create{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(215, 197, 197) ;
+    height: 80vh;
+    border-radius: 20px;
+    padding: 15px;
+}
+.create input{
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 25px;
+    border: none;
+}
+.create label{
+    margin-top: 20px;
+}
+.create textarea{
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.create span{
+    width: 100%;
+}
+.create span input{
+    width: 30%;
+}
+#datet{
+    margin-left: 20px;
+}
+.create button{
+    margin-top: 10px;
+    height: 35px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
